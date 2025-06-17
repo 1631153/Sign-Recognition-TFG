@@ -36,3 +36,21 @@ pip install -r requirements.txt
 3. Una vez todo esté instalado podrás ser capaz de ejecutar los archivos de **entrenamiento** y **test**, además del de la camara para probar el funcionamiento.
 
 No obstante, hay que tener en cuenta que el proyecto utiliza Cuda y PyTorch, por lo que se requiere un sistema con gráficos NVIDIA. Además, para ejecutar el sistema se necesita un mínimo de 4-5 GB de memoria GPU dedicada.
+
+## Diferencias clave entre versiones
+
+Como se puede apreciar, hay diferentes versiónes modificadas del train_i3d.py. A continuación se dicen los cambios más notables de cada versión:
+
+- Javi_train_v1 : Sustituido el bucle de entrenamiento por **funciones separadas de entrenamiento y validación con early stopping y cálculo de precisión**.
+
+- Javi_train_v2 : Sustituido el entrenamiento basado en acumulación de gradientes y validación por pasos por un esquema más tradicional con **funciones separadas para entrenamiento y validación por época, métricas detalladas (accuracy y F1)**, y estructura modular y clara.
+
+- Javi_train_v3 : Sustituido el entrenamiento de todo el modelo por un **entrenamiento con capas congeladas (fine-tuning)**, enfocándose solo en `Mixed_5c` como capa entrenable para una adaptación más eficiente del modelo preentrenado.
+
+- Javi_train_v4 : Sustituido el entrenamiento estándar por uno con **balanceo de clases mediante class_weights, cálculo de métricas avanzadas (accuracy y F1), y uso de early stopping para evitar sobreentrenamiento**.
+
+- Javi_train_v5 : Sustituido el entrenamiento con class weights, congelación parcial de capas y early stopping por un **esquema más simple basado en CrossEntropyLoss sin pesos**, entrenamiento completo del modelo y guardado del mejor modelo según la precisión.
+
+- Javi_train_v6 : Sustituido el entrenamiento estándar con scheduler fijo por uno **adaptativo usando ReduceLROnPlateau basado en la precisión de validación**, con mejoras en el seguimiento de métricas por batch y aplicación de early stopping más prolongado.
+
+- Javi_train_v7 : Sustituido el entrenamiento con CrossEntropyLoss y etiquetas como índices de clase por **BCEWithLogitsLoss con etiquetas one-hot, adaptando la interpolación temporal y simplificando el control de overfitting al eliminar el early stopping**.
