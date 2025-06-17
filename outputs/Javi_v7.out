@@ -1,0 +1,423 @@
+Skipped videos:  0
+1780
+Skipped videos:  0
+258
+Epoch 1/100
+Train Loss: 0.0655 | Train Accuracy: 1.91%
+Val Loss: 0.0539 | Val Accuracy: 6.20%
+
+Model saved: /export/fhome/jcomes/WLASL1/WLASL/I3D/checkpoints//best_model_epoch1_acc6.20_v7.pt
+Epoch 2/100
+Train Loss: 0.0502 | Train Accuracy: 8.42%
+Val Loss: 0.0477 | Val Accuracy: 11.63%
+
+Model saved: /export/fhome/jcomes/WLASL1/WLASL/I3D/checkpoints//best_model_epoch2_acc11.63_v7.pt
+Epoch 3/100
+Train Loss: 0.0432 | Train Accuracy: 17.23%
+Val Loss: 0.0408 | Val Accuracy: 19.38%
+
+Model saved: /export/fhome/jcomes/WLASL1/WLASL/I3D/checkpoints//best_model_epoch3_acc19.38_v7.pt
+Epoch 4/100
+Train Loss: 0.0378 | Train Accuracy: 24.64%
+Val Loss: 0.0403 | Val Accuracy: 25.58%
+
+Model saved: /export/fhome/jcomes/WLASL1/WLASL/I3D/checkpoints//best_model_epoch4_acc25.58_v7.pt
+Epoch 5/100
+Train Loss: 0.0335 | Train Accuracy: 33.56%
+Val Loss: 0.0363 | Val Accuracy: 29.46%
+
+Model saved: /export/fhome/jcomes/WLASL1/WLASL/I3D/checkpoints//best_model_epoch5_acc29.46_v7.pt
+Epoch 6/100
+Train Loss: 0.0289 | Train Accuracy: 44.61%
+Val Loss: 0.0312 | Val Accuracy: 42.25%
+
+Model saved: /export/fhome/jcomes/WLASL1/WLASL/I3D/checkpoints//best_model_epoch6_acc42.25_v7.pt
+Epoch 7/100
+Train Loss: 0.0260 | Train Accuracy: 50.11%
+Val Loss: 0.0339 | Val Accuracy: 41.09%
+
+Epoch 8/100
+Train Loss: 0.0226 | Train Accuracy: 58.19%
+Val Loss: 0.0282 | Val Accuracy: 50.00%
+
+Model saved: /export/fhome/jcomes/WLASL1/WLASL/I3D/checkpoints//best_model_epoch8_acc50.00_v7.pt
+Epoch 9/100
+Train Loss: 0.0191 | Train Accuracy: 66.22%
+Val Loss: 0.0316 | Val Accuracy: 48.45%
+
+Epoch 10/100
+Train Loss: 0.0181 | Train Accuracy: 67.68%
+Val Loss: 0.0306 | Val Accuracy: 45.35%
+
+Epoch 11/100
+Train Loss: 0.0156 | Train Accuracy: 72.39%
+Val Loss: 0.0305 | Val Accuracy: 50.00%
+
+Epoch 12/100
+Train Loss: 0.0138 | Train Accuracy: 76.88%
+Val Loss: 0.0331 | Val Accuracy: 50.39%
+
+Model saved: /export/fhome/jcomes/WLASL1/WLASL/I3D/checkpoints//best_model_epoch12_acc50.39_v7.pt
+Epoch 13/100
+Train Loss: 0.0128 | Train Accuracy: 78.73%
+Val Loss: 0.0278 | Val Accuracy: 56.20%
+
+Model saved: /export/fhome/jcomes/WLASL1/WLASL/I3D/checkpoints//best_model_epoch13_acc56.20_v7.pt
+Epoch 14/100
+Train Loss: 0.0107 | Train Accuracy: 84.79%
+Val Loss: 0.0258 | Val Accuracy: 61.24%
+
+Model saved: /export/fhome/jcomes/WLASL1/WLASL/I3D/checkpoints//best_model_epoch14_acc61.24_v7.pt
+Epoch 15/100
+Train Loss: 0.0099 | Train Accuracy: 86.08%
+Val Loss: 0.0306 | Val Accuracy: 56.98%
+
+Epoch 16/100
+Train Loss: 0.0093 | Train Accuracy: 86.98%
+Val Loss: 0.0244 | Val Accuracy: 63.18%
+
+Model saved: /export/fhome/jcomes/WLASL1/WLASL/I3D/checkpoints//best_model_epoch16_acc63.18_v7.pt
+Epoch 17/100
+Train Loss: 0.0082 | Train Accuracy: 87.60%
+Val Loss: 0.0225 | Val Accuracy: 67.83%
+
+Model saved: /export/fhome/jcomes/WLASL1/WLASL/I3D/checkpoints//best_model_epoch17_acc67.83_v7.pt
+Epoch 18/100
+Train Loss: 0.0079 | Train Accuracy: 89.00%
+Val Loss: 0.0252 | Val Accuracy: 59.69%
+
+Epoch 19/100
+Train Loss: 0.0072 | Train Accuracy: 90.40%
+Val Loss: 0.0272 | Val Accuracy: 62.40%
+
+Epoch 20/100
+Train Loss: 0.0061 | Train Accuracy: 91.81%
+Val Loss: 0.0295 | Val Accuracy: 62.40%
+
+Epoch 21/100
+Train Loss: 0.0064 | Train Accuracy: 91.19%
+Val Loss: 0.0348 | Val Accuracy: 56.20%
+
+Epoch 22/100
+Train Loss: 0.0057 | Train Accuracy: 92.59%
+Val Loss: 0.0317 | Val Accuracy: 58.53%
+
+Epoch 23/100
+Train Loss: 0.0056 | Train Accuracy: 92.87%
+Val Loss: 0.0285 | Val Accuracy: 62.79%
+
+Epoch 24/100
+Train Loss: 0.0025 | Train Accuracy: 97.53%
+Val Loss: 0.0216 | Val Accuracy: 74.42%
+
+Model saved: /export/fhome/jcomes/WLASL1/WLASL/I3D/checkpoints//best_model_epoch24_acc74.42_v7.pt
+Epoch 25/100
+Train Loss: 0.0016 | Train Accuracy: 98.37%
+Val Loss: 0.0218 | Val Accuracy: 74.81%
+
+Model saved: /export/fhome/jcomes/WLASL1/WLASL/I3D/checkpoints//best_model_epoch25_acc74.81_v7.pt
+Epoch 26/100
+Train Loss: 0.0012 | Train Accuracy: 98.82%
+Val Loss: 0.0220 | Val Accuracy: 77.52%
+
+Model saved: /export/fhome/jcomes/WLASL1/WLASL/I3D/checkpoints//best_model_epoch26_acc77.52_v7.pt
+Epoch 27/100
+Train Loss: 0.0012 | Train Accuracy: 99.05%
+Val Loss: 0.0220 | Val Accuracy: 75.58%
+
+Epoch 28/100
+Train Loss: 0.0009 | Train Accuracy: 99.05%
+Val Loss: 0.0238 | Val Accuracy: 75.58%
+
+Epoch 29/100
+Train Loss: 0.0010 | Train Accuracy: 98.93%
+Val Loss: 0.0243 | Val Accuracy: 72.87%
+
+Epoch 30/100
+Train Loss: 0.0012 | Train Accuracy: 98.93%
+Val Loss: 0.0240 | Val Accuracy: 72.09%
+
+Epoch 31/100
+Train Loss: 0.0008 | Train Accuracy: 99.27%
+Val Loss: 0.0214 | Val Accuracy: 75.97%
+
+Epoch 32/100
+Train Loss: 0.0005 | Train Accuracy: 99.44%
+Val Loss: 0.0215 | Val Accuracy: 77.91%
+
+Model saved: /export/fhome/jcomes/WLASL1/WLASL/I3D/checkpoints//best_model_epoch32_acc77.91_v7.pt
+Epoch 33/100
+Train Loss: 0.0005 | Train Accuracy: 99.61%
+Val Loss: 0.0221 | Val Accuracy: 78.29%
+
+Model saved: /export/fhome/jcomes/WLASL1/WLASL/I3D/checkpoints//best_model_epoch33_acc78.29_v7.pt
+Epoch 34/100
+Train Loss: 0.0004 | Train Accuracy: 99.55%
+Val Loss: 0.0223 | Val Accuracy: 77.52%
+
+Epoch 35/100
+Train Loss: 0.0005 | Train Accuracy: 99.55%
+Val Loss: 0.0226 | Val Accuracy: 77.13%
+
+Epoch 36/100
+Train Loss: 0.0005 | Train Accuracy: 99.55%
+Val Loss: 0.0221 | Val Accuracy: 76.36%
+
+Epoch 37/100
+Train Loss: 0.0003 | Train Accuracy: 99.61%
+Val Loss: 0.0233 | Val Accuracy: 76.36%
+
+Epoch 38/100
+Train Loss: 0.0003 | Train Accuracy: 99.55%
+Val Loss: 0.0227 | Val Accuracy: 77.91%
+
+Epoch 39/100
+Train Loss: 0.0004 | Train Accuracy: 99.55%
+Val Loss: 0.0222 | Val Accuracy: 77.52%
+
+Epoch 40/100
+Train Loss: 0.0003 | Train Accuracy: 99.66%
+Val Loss: 0.0227 | Val Accuracy: 78.29%
+
+Epoch 41/100
+Train Loss: 0.0004 | Train Accuracy: 99.44%
+Val Loss: 0.0235 | Val Accuracy: 75.58%
+
+Epoch 42/100
+Train Loss: 0.0003 | Train Accuracy: 99.78%
+Val Loss: 0.0220 | Val Accuracy: 76.36%
+
+Epoch 43/100
+Train Loss: 0.0003 | Train Accuracy: 99.61%
+Val Loss: 0.0222 | Val Accuracy: 77.91%
+
+Epoch 44/100
+Train Loss: 0.0003 | Train Accuracy: 99.66%
+Val Loss: 0.0228 | Val Accuracy: 77.91%
+
+Epoch 45/100
+Train Loss: 0.0003 | Train Accuracy: 99.55%
+Val Loss: 0.0222 | Val Accuracy: 77.91%
+
+Epoch 46/100
+Train Loss: 0.0003 | Train Accuracy: 99.61%
+Val Loss: 0.0218 | Val Accuracy: 77.91%
+
+Epoch 47/100
+Train Loss: 0.0003 | Train Accuracy: 99.55%
+Val Loss: 0.0221 | Val Accuracy: 77.91%
+
+Epoch 48/100
+Train Loss: 0.0003 | Train Accuracy: 99.66%
+Val Loss: 0.0223 | Val Accuracy: 77.52%
+
+Epoch 49/100
+Train Loss: 0.0003 | Train Accuracy: 99.61%
+Val Loss: 0.0226 | Val Accuracy: 78.29%
+
+Epoch 50/100
+Train Loss: 0.0003 | Train Accuracy: 99.61%
+Val Loss: 0.0232 | Val Accuracy: 75.97%
+
+Epoch 51/100
+Train Loss: 0.0003 | Train Accuracy: 99.66%
+Val Loss: 0.0224 | Val Accuracy: 76.74%
+
+Epoch 52/100
+Train Loss: 0.0003 | Train Accuracy: 99.78%
+Val Loss: 0.0221 | Val Accuracy: 77.91%
+
+Epoch 53/100
+Train Loss: 0.0003 | Train Accuracy: 99.66%
+Val Loss: 0.0223 | Val Accuracy: 77.13%
+
+Epoch 54/100
+Train Loss: 0.0002 | Train Accuracy: 99.83%
+Val Loss: 0.0221 | Val Accuracy: 78.29%
+
+Epoch 55/100
+Train Loss: 0.0002 | Train Accuracy: 99.66%
+Val Loss: 0.0221 | Val Accuracy: 76.74%
+
+Epoch 56/100
+Train Loss: 0.0003 | Train Accuracy: 99.72%
+Val Loss: 0.0224 | Val Accuracy: 77.52%
+
+Epoch 57/100
+Train Loss: 0.0003 | Train Accuracy: 99.55%
+Val Loss: 0.0222 | Val Accuracy: 78.29%
+
+Epoch 58/100
+Train Loss: 0.0002 | Train Accuracy: 99.72%
+Val Loss: 0.0216 | Val Accuracy: 77.13%
+
+Epoch 59/100
+Train Loss: 0.0003 | Train Accuracy: 99.61%
+Val Loss: 0.0219 | Val Accuracy: 77.91%
+
+Epoch 60/100
+Train Loss: 0.0003 | Train Accuracy: 99.55%
+Val Loss: 0.0223 | Val Accuracy: 78.29%
+
+Epoch 61/100
+Train Loss: 0.0002 | Train Accuracy: 99.78%
+Val Loss: 0.0221 | Val Accuracy: 77.91%
+
+Epoch 62/100
+Train Loss: 0.0003 | Train Accuracy: 99.66%
+Val Loss: 0.0225 | Val Accuracy: 76.74%
+
+Epoch 63/100
+Train Loss: 0.0002 | Train Accuracy: 99.83%
+Val Loss: 0.0225 | Val Accuracy: 77.13%
+
+Epoch 64/100
+Train Loss: 0.0003 | Train Accuracy: 99.61%
+Val Loss: 0.0218 | Val Accuracy: 78.29%
+
+Epoch 65/100
+Train Loss: 0.0003 | Train Accuracy: 99.49%
+Val Loss: 0.0226 | Val Accuracy: 75.97%
+
+Epoch 66/100
+Train Loss: 0.0003 | Train Accuracy: 99.72%
+Val Loss: 0.0220 | Val Accuracy: 77.91%
+
+Epoch 67/100
+Train Loss: 0.0003 | Train Accuracy: 99.49%
+Val Loss: 0.0228 | Val Accuracy: 77.91%
+
+Epoch 68/100
+Train Loss: 0.0003 | Train Accuracy: 99.83%
+Val Loss: 0.0226 | Val Accuracy: 76.36%
+
+Epoch 69/100
+Train Loss: 0.0002 | Train Accuracy: 99.94%
+Val Loss: 0.0218 | Val Accuracy: 77.91%
+
+Epoch 70/100
+Train Loss: 0.0002 | Train Accuracy: 99.66%
+Val Loss: 0.0220 | Val Accuracy: 79.07%
+
+Model saved: /export/fhome/jcomes/WLASL1/WLASL/I3D/checkpoints//best_model_epoch70_acc79.07_v7.pt
+Epoch 71/100
+Train Loss: 0.0002 | Train Accuracy: 99.66%
+Val Loss: 0.0227 | Val Accuracy: 77.52%
+
+Epoch 72/100
+Train Loss: 0.0003 | Train Accuracy: 99.61%
+Val Loss: 0.0223 | Val Accuracy: 77.52%
+
+Epoch 73/100
+Train Loss: 0.0003 | Train Accuracy: 99.72%
+Val Loss: 0.0222 | Val Accuracy: 77.91%
+
+Epoch 74/100
+Train Loss: 0.0002 | Train Accuracy: 99.72%
+Val Loss: 0.0221 | Val Accuracy: 77.52%
+
+Epoch 75/100
+Train Loss: 0.0002 | Train Accuracy: 99.72%
+Val Loss: 0.0217 | Val Accuracy: 78.68%
+
+Epoch 76/100
+Train Loss: 0.0002 | Train Accuracy: 99.72%
+Val Loss: 0.0223 | Val Accuracy: 77.91%
+
+Epoch 77/100
+Train Loss: 0.0002 | Train Accuracy: 99.83%
+Val Loss: 0.0224 | Val Accuracy: 77.91%
+
+Epoch 78/100
+Train Loss: 0.0003 | Train Accuracy: 99.55%
+Val Loss: 0.0219 | Val Accuracy: 78.29%
+
+Epoch 79/100
+Train Loss: 0.0003 | Train Accuracy: 99.61%
+Val Loss: 0.0215 | Val Accuracy: 79.46%
+
+Model saved: /export/fhome/jcomes/WLASL1/WLASL/I3D/checkpoints//best_model_epoch79_acc79.46_v7.pt
+Epoch 80/100
+Train Loss: 0.0002 | Train Accuracy: 99.72%
+Val Loss: 0.0223 | Val Accuracy: 77.13%
+
+Epoch 81/100
+Train Loss: 0.0003 | Train Accuracy: 99.55%
+Val Loss: 0.0226 | Val Accuracy: 76.74%
+
+Epoch 82/100
+Train Loss: 0.0002 | Train Accuracy: 99.72%
+Val Loss: 0.0217 | Val Accuracy: 78.68%
+
+Epoch 83/100
+Train Loss: 0.0003 | Train Accuracy: 99.66%
+Val Loss: 0.0222 | Val Accuracy: 77.91%
+
+Epoch 84/100
+Train Loss: 0.0002 | Train Accuracy: 99.72%
+Val Loss: 0.0222 | Val Accuracy: 77.52%
+
+Epoch 85/100
+Train Loss: 0.0003 | Train Accuracy: 99.72%
+Val Loss: 0.0231 | Val Accuracy: 77.52%
+
+Epoch 86/100
+Train Loss: 0.0003 | Train Accuracy: 99.72%
+Val Loss: 0.0223 | Val Accuracy: 78.68%
+
+Epoch 87/100
+Train Loss: 0.0002 | Train Accuracy: 99.66%
+Val Loss: 0.0225 | Val Accuracy: 77.13%
+
+Epoch 88/100
+Train Loss: 0.0003 | Train Accuracy: 99.49%
+Val Loss: 0.0223 | Val Accuracy: 78.29%
+
+Epoch 89/100
+Train Loss: 0.0003 | Train Accuracy: 99.61%
+Val Loss: 0.0227 | Val Accuracy: 77.52%
+
+Epoch 90/100
+Train Loss: 0.0003 | Train Accuracy: 99.55%
+Val Loss: 0.0224 | Val Accuracy: 77.13%
+
+Epoch 91/100
+Train Loss: 0.0003 | Train Accuracy: 99.61%
+Val Loss: 0.0224 | Val Accuracy: 77.13%
+
+Epoch 92/100
+Train Loss: 0.0003 | Train Accuracy: 99.61%
+Val Loss: 0.0225 | Val Accuracy: 77.52%
+
+Epoch 93/100
+Train Loss: 0.0002 | Train Accuracy: 99.78%
+Val Loss: 0.0214 | Val Accuracy: 78.68%
+
+Epoch 94/100
+Train Loss: 0.0003 | Train Accuracy: 99.66%
+Val Loss: 0.0216 | Val Accuracy: 77.91%
+
+Epoch 95/100
+Train Loss: 0.0003 | Train Accuracy: 99.55%
+Val Loss: 0.0220 | Val Accuracy: 77.13%
+
+Epoch 96/100
+Train Loss: 0.0003 | Train Accuracy: 99.66%
+Val Loss: 0.0222 | Val Accuracy: 77.52%
+
+Epoch 97/100
+Train Loss: 0.0003 | Train Accuracy: 99.61%
+Val Loss: 0.0223 | Val Accuracy: 76.36%
+
+Epoch 98/100
+Train Loss: 0.0002 | Train Accuracy: 99.66%
+Val Loss: 0.0225 | Val Accuracy: 76.74%
+
+Epoch 99/100
+Train Loss: 0.0002 | Train Accuracy: 99.78%
+Val Loss: 0.0230 | Val Accuracy: 77.91%
+
+Epoch 100/100
+Train Loss: 0.0003 | Train Accuracy: 99.49%
+Val Loss: 0.0220 | Val Accuracy: 79.07%
+

@@ -1,0 +1,171 @@
+Skipped videos:  0
+1780
+Skipped videos:  0
+258
+Epoch 1/50
+Train Loss: 0.0659 | Accuracy: 1.35% | F1-score: 1.23%
+Val Loss: 0.0587 | Accuracy: 4.26% | F1-score: 3.55%
+Model saved: /export/fhome/jcomes/WLASL1/WLASL/I3D/checkpoints//best_model_epoch1_acc4.26_v7-2.pt
+Epoch 2/50
+Train Loss: 0.0519 | Accuracy: 5.95% | F1-score: 5.85%
+Val Loss: 0.0503 | Accuracy: 8.91% | F1-score: 9.04%
+Model saved: /export/fhome/jcomes/WLASL1/WLASL/I3D/checkpoints//best_model_epoch2_acc8.91_v7-2.pt
+Epoch 3/50
+Train Loss: 0.0457 | Accuracy: 14.37% | F1-score: 14.37%
+Val Loss: 0.0432 | Accuracy: 18.22% | F1-score: 17.83%
+Model saved: /export/fhome/jcomes/WLASL1/WLASL/I3D/checkpoints//best_model_epoch3_acc18.22_v7-2.pt
+Epoch 4/50
+Train Loss: 0.0400 | Accuracy: 21.27% | F1-score: 21.29%
+Val Loss: 0.0431 | Accuracy: 19.77% | F1-score: 19.90%
+Model saved: /export/fhome/jcomes/WLASL1/WLASL/I3D/checkpoints//best_model_epoch4_acc19.77_v7-2.pt
+Epoch 5/50
+Train Loss: 0.0350 | Accuracy: 30.75% | F1-score: 30.85%
+Val Loss: 0.0398 | Accuracy: 24.81% | F1-score: 24.55%
+Model saved: /export/fhome/jcomes/WLASL1/WLASL/I3D/checkpoints//best_model_epoch5_acc24.81_v7-2.pt
+Epoch 6/50
+Train Loss: 0.0306 | Accuracy: 41.47% | F1-score: 41.51%
+Val Loss: 0.0375 | Accuracy: 32.17% | F1-score: 32.56%
+Model saved: /export/fhome/jcomes/WLASL1/WLASL/I3D/checkpoints//best_model_epoch6_acc32.17_v7-2.pt
+Epoch 7/50
+Train Loss: 0.0265 | Accuracy: 49.89% | F1-score: 49.98%
+Val Loss: 0.0343 | Accuracy: 36.43% | F1-score: 36.43%
+Model saved: /export/fhome/jcomes/WLASL1/WLASL/I3D/checkpoints//best_model_epoch7_acc36.43_v7-2.pt
+Epoch 8/50
+Train Loss: 0.0239 | Accuracy: 56.68% | F1-score: 56.81%
+Val Loss: 0.0283 | Accuracy: 48.45% | F1-score: 49.10%
+Model saved: /export/fhome/jcomes/WLASL1/WLASL/I3D/checkpoints//best_model_epoch8_acc48.45_v7-2.pt
+Epoch 9/50
+Train Loss: 0.0206 | Accuracy: 61.34% | F1-score: 61.41%
+Val Loss: 0.0306 | Accuracy: 47.67% | F1-score: 48.32%
+Epoch 10/50
+Train Loss: 0.0185 | Accuracy: 67.40% | F1-score: 67.49%
+Val Loss: 0.0292 | Accuracy: 51.94% | F1-score: 52.58%
+Model saved: /export/fhome/jcomes/WLASL1/WLASL/I3D/checkpoints//best_model_epoch10_acc51.94_v7-2.pt
+Epoch 11/50
+Train Loss: 0.0163 | Accuracy: 71.38% | F1-score: 71.51%
+Val Loss: 0.0302 | Accuracy: 48.45% | F1-score: 49.10%
+Epoch 12/50
+Train Loss: 0.0147 | Accuracy: 75.20% | F1-score: 75.27%
+Val Loss: 0.0272 | Accuracy: 53.88% | F1-score: 54.65%
+Model saved: /export/fhome/jcomes/WLASL1/WLASL/I3D/checkpoints//best_model_epoch12_acc53.88_v7-2.pt
+Epoch 13/50
+Train Loss: 0.0124 | Accuracy: 79.24% | F1-score: 79.37%
+Val Loss: 0.0295 | Accuracy: 50.00% | F1-score: 50.78%
+Epoch 14/50
+Train Loss: 0.0121 | Accuracy: 81.09% | F1-score: 81.26%
+Val Loss: 0.0274 | Accuracy: 60.47% | F1-score: 61.89%
+Model saved: /export/fhome/jcomes/WLASL1/WLASL/I3D/checkpoints//best_model_epoch14_acc60.47_v7-2.pt
+Epoch 15/50
+Train Loss: 0.0103 | Accuracy: 84.29% | F1-score: 84.36%
+Val Loss: 0.0334 | Accuracy: 53.49% | F1-score: 54.39%
+Epoch 16/50
+Train Loss: 0.0099 | Accuracy: 85.63% | F1-score: 85.78%
+Val Loss: 0.0269 | Accuracy: 59.69% | F1-score: 60.21%
+Epoch 17/50
+Train Loss: 0.0080 | Accuracy: 89.06% | F1-score: 89.13%
+Val Loss: 0.0282 | Accuracy: 63.18% | F1-score: 63.57%
+Model saved: /export/fhome/jcomes/WLASL1/WLASL/I3D/checkpoints//best_model_epoch17_acc63.18_v7-2.pt
+Epoch 18/50
+Train Loss: 0.0079 | Accuracy: 89.73% | F1-score: 89.84%
+Val Loss: 0.0275 | Accuracy: 58.53% | F1-score: 59.30%
+Epoch 19/50
+Train Loss: 0.0069 | Accuracy: 91.08% | F1-score: 91.17%
+Val Loss: 0.0235 | Accuracy: 63.57% | F1-score: 63.82%
+Model saved: /export/fhome/jcomes/WLASL1/WLASL/I3D/checkpoints//best_model_epoch19_acc63.57_v7-2.pt
+Epoch 20/50
+Train Loss: 0.0073 | Accuracy: 89.67% | F1-score: 89.75%
+Val Loss: 0.0280 | Accuracy: 58.14% | F1-score: 58.66%
+Epoch 21/50
+Train Loss: 0.0062 | Accuracy: 91.92% | F1-score: 91.96%
+Val Loss: 0.0297 | Accuracy: 64.34% | F1-score: 65.12%
+Model saved: /export/fhome/jcomes/WLASL1/WLASL/I3D/checkpoints//best_model_epoch21_acc64.34_v7-2.pt
+Epoch 22/50
+Train Loss: 0.0059 | Accuracy: 92.09% | F1-score: 92.14%
+Val Loss: 0.0228 | Accuracy: 65.89% | F1-score: 66.67%
+Model saved: /export/fhome/jcomes/WLASL1/WLASL/I3D/checkpoints//best_model_epoch22_acc65.89_v7-2.pt
+Epoch 23/50
+Train Loss: 0.0057 | Accuracy: 93.15% | F1-score: 93.23%
+Val Loss: 0.0298 | Accuracy: 59.69% | F1-score: 60.34%
+Epoch 24/50
+Train Loss: 0.0061 | Accuracy: 92.31% | F1-score: 92.41%
+Val Loss: 0.0274 | Accuracy: 62.02% | F1-score: 62.79%
+Epoch 25/50
+Train Loss: 0.0047 | Accuracy: 94.50% | F1-score: 94.61%
+Val Loss: 0.0292 | Accuracy: 59.30% | F1-score: 59.95%
+Epoch 26/50
+Train Loss: 0.0053 | Accuracy: 92.76% | F1-score: 92.82%
+Val Loss: 0.0327 | Accuracy: 62.40% | F1-score: 62.92%
+Epoch 27/50
+Train Loss: 0.0056 | Accuracy: 92.76% | F1-score: 92.85%
+Val Loss: 0.0263 | Accuracy: 62.79% | F1-score: 63.57%
+Epoch 28/50
+Train Loss: 0.0037 | Accuracy: 96.24% | F1-score: 96.28%
+Val Loss: 0.0296 | Accuracy: 64.73% | F1-score: 65.37%
+Epoch 29/50
+Train Loss: 0.0020 | Accuracy: 97.59% | F1-score: 97.68%
+Val Loss: 0.0204 | Accuracy: 75.97% | F1-score: 76.61%
+Model saved: /export/fhome/jcomes/WLASL1/WLASL/I3D/checkpoints//best_model_epoch29_acc75.97_v7-2.pt
+Epoch 30/50
+Train Loss: 0.0011 | Accuracy: 98.88% | F1-score: 98.90%
+Val Loss: 0.0213 | Accuracy: 74.42% | F1-score: 75.19%
+Epoch 31/50
+Train Loss: 0.0010 | Accuracy: 99.05% | F1-score: 99.06%
+Val Loss: 0.0214 | Accuracy: 72.87% | F1-score: 73.64%
+Epoch 32/50
+Train Loss: 0.0009 | Accuracy: 99.27% | F1-score: 99.27%
+Val Loss: 0.0204 | Accuracy: 75.58% | F1-score: 76.36%
+Epoch 33/50
+Train Loss: 0.0009 | Accuracy: 99.05% | F1-score: 99.06%
+Val Loss: 0.0223 | Accuracy: 72.48% | F1-score: 73.51%
+Epoch 34/50
+Train Loss: 0.0007 | Accuracy: 99.38% | F1-score: 99.40%
+Val Loss: 0.0235 | Accuracy: 73.26% | F1-score: 74.03%
+Epoch 35/50
+Train Loss: 0.0009 | Accuracy: 99.21% | F1-score: 99.21%
+Val Loss: 0.0236 | Accuracy: 72.87% | F1-score: 73.39%
+Epoch 36/50
+Train Loss: 0.0007 | Accuracy: 99.38% | F1-score: 99.40%
+Val Loss: 0.0222 | Accuracy: 74.03% | F1-score: 74.55%
+Epoch 37/50
+Train Loss: 0.0004 | Accuracy: 99.66% | F1-score: 99.66%
+Val Loss: 0.0224 | Accuracy: 74.42% | F1-score: 75.32%
+Epoch 38/50
+Train Loss: 0.0009 | Accuracy: 99.16% | F1-score: 99.20%
+Val Loss: 0.0257 | Accuracy: 71.71% | F1-score: 72.48%
+Epoch 39/50
+Train Loss: 0.0007 | Accuracy: 99.21% | F1-score: 99.25%
+Val Loss: 0.0214 | Accuracy: 75.58% | F1-score: 76.49%
+Epoch 40/50
+Train Loss: 0.0004 | Accuracy: 99.72% | F1-score: 99.72%
+Val Loss: 0.0222 | Accuracy: 75.19% | F1-score: 75.97%
+Epoch 41/50
+Train Loss: 0.0004 | Accuracy: 99.44% | F1-score: 99.44%
+Val Loss: 0.0226 | Accuracy: 75.58% | F1-score: 76.36%
+Epoch 42/50
+Train Loss: 0.0003 | Accuracy: 99.61% | F1-score: 99.63%
+Val Loss: 0.0211 | Accuracy: 74.81% | F1-score: 75.58%
+Epoch 43/50
+Train Loss: 0.0003 | Accuracy: 99.61% | F1-score: 99.61%
+Val Loss: 0.0204 | Accuracy: 77.91% | F1-score: 78.68%
+Model saved: /export/fhome/jcomes/WLASL1/WLASL/I3D/checkpoints//best_model_epoch43_acc77.91_v7-2.pt
+Epoch 44/50
+Train Loss: 0.0003 | Accuracy: 99.61% | F1-score: 99.61%
+Val Loss: 0.0209 | Accuracy: 74.42% | F1-score: 75.06%
+Epoch 45/50
+Train Loss: 0.0003 | Accuracy: 99.49% | F1-score: 99.51%
+Val Loss: 0.0198 | Accuracy: 76.74% | F1-score: 77.39%
+Epoch 46/50
+Train Loss: 0.0003 | Accuracy: 99.55% | F1-score: 99.55%
+Val Loss: 0.0205 | Accuracy: 75.97% | F1-score: 76.74%
+Epoch 47/50
+Train Loss: 0.0003 | Accuracy: 99.61% | F1-score: 99.63%
+Val Loss: 0.0205 | Accuracy: 75.97% | F1-score: 76.61%
+Epoch 48/50
+Train Loss: 0.0003 | Accuracy: 99.61% | F1-score: 99.61%
+Val Loss: 0.0201 | Accuracy: 77.13% | F1-score: 78.04%
+Epoch 49/50
+Train Loss: 0.0002 | Accuracy: 99.66% | F1-score: 99.66%
+Val Loss: 0.0204 | Accuracy: 77.52% | F1-score: 78.17%
+Epoch 50/50
+Train Loss: 0.0003 | Accuracy: 99.49% | F1-score: 99.49%
+Val Loss: 0.0212 | Accuracy: 75.58% | F1-score: 76.49%

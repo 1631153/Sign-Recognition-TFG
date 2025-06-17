@@ -1,0 +1,457 @@
+{'word': '/export/fhome/jcomes/WLASL1/data/WLASL2000'} /export/fhome/jcomes/WLASL1/WLASL/I3D/preprocess/nslt_100.json
+bs=3_ups=1_lr=0.001_eps=0.001_wd=1e-07
+Skipped videos:  0
+1780
+Skipped videos:  0
+258
+
+=== Epoch 1 ===
+  [Batch 10/594] Avg Loss: 4.5513 | Acc so far: 0.00% | F1 so far: 0.0000
+  [Batch 20/594] Avg Loss: 4.6816 | Acc so far: 1.67% | F1 so far: 0.0029
+  [Batch 30/594] Avg Loss: 4.6929 | Acc so far: 1.11% | F1 so far: 0.0013
+  [Batch 40/594] Avg Loss: 4.6585 | Acc so far: 0.83% | F1 so far: 0.0010
+  [Batch 50/594] Avg Loss: 4.6559 | Acc so far: 1.33% | F1 so far: 0.0016
+  [Batch 60/594] Avg Loss: 4.6520 | Acc so far: 1.11% | F1 so far: 0.0012
+  [Batch 70/594] Avg Loss: 4.6473 | Acc so far: 0.95% | F1 so far: 0.0011
+  [Batch 80/594] Avg Loss: 4.6585 | Acc so far: 0.83% | F1 so far: 0.0010
+  [Batch 90/594] Avg Loss: 4.6553 | Acc so far: 0.74% | F1 so far: 0.0009
+  [Batch 100/594] Avg Loss: 4.6507 | Acc so far: 0.67% | F1 so far: 0.0008
+  [Batch 110/594] Avg Loss: 4.6490 | Acc so far: 0.61% | F1 so far: 0.0008
+  [Batch 120/594] Avg Loss: 4.6447 | Acc so far: 1.11% | F1 so far: 0.0012
+  [Batch 130/594] Avg Loss: 4.6419 | Acc so far: 1.28% | F1 so far: 0.0013
+  [Batch 140/594] Avg Loss: 4.6428 | Acc so far: 1.43% | F1 so far: 0.0014
+  [Batch 150/594] Avg Loss: 4.6408 | Acc so far: 1.56% | F1 so far: 0.0014
+  [Batch 160/594] Avg Loss: 4.6366 | Acc so far: 1.67% | F1 so far: 0.0016
+  [Batch 170/594] Avg Loss: 4.6371 | Acc so far: 1.57% | F1 so far: 0.0014
+  [Batch 180/594] Avg Loss: 4.6350 | Acc so far: 1.67% | F1 so far: 0.0014
+  [Batch 190/594] Avg Loss: 4.6349 | Acc so far: 1.58% | F1 so far: 0.0013
+  [Batch 200/594] Avg Loss: 4.6362 | Acc so far: 1.50% | F1 so far: 0.0012
+  [Batch 210/594] Avg Loss: 4.6351 | Acc so far: 1.43% | F1 so far: 0.0011
+  [Batch 220/594] Avg Loss: 4.6339 | Acc so far: 1.36% | F1 so far: 0.0010
+  [Batch 230/594] Avg Loss: 4.6326 | Acc so far: 1.30% | F1 so far: 0.0010
+  [Batch 240/594] Avg Loss: 4.6323 | Acc so far: 1.25% | F1 so far: 0.0009
+  [Batch 250/594] Avg Loss: 4.6315 | Acc so far: 1.20% | F1 so far: 0.0009
+  [Batch 260/594] Avg Loss: 4.6313 | Acc so far: 1.28% | F1 so far: 0.0009
+  [Batch 270/594] Avg Loss: 4.6297 | Acc so far: 1.36% | F1 so far: 0.0010
+  [Batch 280/594] Avg Loss: 4.6291 | Acc so far: 1.31% | F1 so far: 0.0009
+  [Batch 290/594] Avg Loss: 4.6285 | Acc so far: 1.49% | F1 so far: 0.0010
+  [Batch 300/594] Avg Loss: 4.6289 | Acc so far: 1.44% | F1 so far: 0.0010
+  [Batch 310/594] Avg Loss: 4.6293 | Acc so far: 1.40% | F1 so far: 0.0009
+  [Batch 320/594] Avg Loss: 4.6290 | Acc so far: 1.35% | F1 so far: 0.0009
+  [Batch 330/594] Avg Loss: 4.6284 | Acc so far: 1.31% | F1 so far: 0.0009
+  [Batch 340/594] Avg Loss: 4.6277 | Acc so far: 1.27% | F1 so far: 0.0008
+  [Batch 350/594] Avg Loss: 4.6270 | Acc so far: 1.24% | F1 so far: 0.0008
+  [Batch 360/594] Avg Loss: 4.6263 | Acc so far: 1.20% | F1 so far: 0.0008
+  [Batch 370/594] Avg Loss: 4.6261 | Acc so far: 1.17% | F1 so far: 0.0008
+  [Batch 380/594] Avg Loss: 4.6254 | Acc so far: 1.23% | F1 so far: 0.0014
+  [Batch 390/594] Avg Loss: 4.6254 | Acc so far: 1.20% | F1 so far: 0.0013
+  [Batch 400/594] Avg Loss: 4.6249 | Acc so far: 1.25% | F1 so far: 0.0016
+  [Batch 410/594] Avg Loss: 4.6248 | Acc so far: 1.22% | F1 so far: 0.0014
+  [Batch 420/594] Avg Loss: 4.6244 | Acc so far: 1.19% | F1 so far: 0.0012
+  [Batch 430/594] Avg Loss: 4.6240 | Acc so far: 1.24% | F1 so far: 0.0013
+  [Batch 440/594] Avg Loss: 4.6236 | Acc so far: 1.36% | F1 so far: 0.0025
+  [Batch 450/594] Avg Loss: 4.6232 | Acc so far: 1.33% | F1 so far: 0.0022
+  [Batch 460/594] Avg Loss: 4.6229 | Acc so far: 1.38% | F1 so far: 0.0026
+  [Batch 470/594] Avg Loss: 4.6224 | Acc so far: 1.49% | F1 so far: 0.0029
+  [Batch 480/594] Avg Loss: 4.6222 | Acc so far: 1.46% | F1 so far: 0.0026
+  [Batch 490/594] Avg Loss: 4.6220 | Acc so far: 1.50% | F1 so far: 0.0027
+  [Batch 500/594] Avg Loss: 4.6216 | Acc so far: 1.47% | F1 so far: 0.0024
+  [Batch 510/594] Avg Loss: 4.6213 | Acc so far: 1.50% | F1 so far: 0.0024
+  [Batch 520/594] Avg Loss: 4.6209 | Acc so far: 1.60% | F1 so far: 0.0025
+  [Batch 530/594] Avg Loss: 4.6206 | Acc so far: 1.57% | F1 so far: 0.0023
+  [Batch 540/594] Avg Loss: 4.6204 | Acc so far: 1.54% | F1 so far: 0.0022
+  [Batch 550/594] Avg Loss: 4.6201 | Acc so far: 1.58% | F1 so far: 0.0024
+  [Batch 560/594] Avg Loss: 4.6201 | Acc so far: 1.55% | F1 so far: 0.0022
+  [Batch 570/594] Avg Loss: 4.6200 | Acc so far: 1.52% | F1 so far: 0.0021
+  [Batch 580/594] Avg Loss: 4.6199 | Acc so far: 1.49% | F1 so far: 0.0020
+  [Batch 590/594] Avg Loss: 4.6198 | Acc so far: 1.47% | F1 so far: 0.0019
+Train - Loss: 4.6197 | Acc: 1.52% | F1: 0.0020
+Val   - Loss: 4.6024 | Acc: 0.78% | F1: 0.0004
+Best model saved: /export/fhome/jcomes/WLASL1/WLASL/I3D/checkpoints/best_model_epoch_1_v6.pth
+
+=== Epoch 2 ===
+  [Batch 10/594] Avg Loss: 4.5947 | Acc so far: 3.33% | F1 so far: 0.0121
+  [Batch 20/594] Avg Loss: 4.6021 | Acc so far: 1.67% | F1 so far: 0.0024
+  [Batch 30/594] Avg Loss: 4.6025 | Acc so far: 1.11% | F1 so far: 0.0009
+  [Batch 40/594] Avg Loss: 4.6020 | Acc so far: 1.67% | F1 so far: 0.0011
+  [Batch 50/594] Avg Loss: 4.6022 | Acc so far: 1.33% | F1 so far: 0.0007
+  [Batch 60/594] Avg Loss: 4.6037 | Acc so far: 1.11% | F1 so far: 0.0005
+  [Batch 70/594] Avg Loss: 4.6038 | Acc so far: 1.43% | F1 so far: 0.0007
+  [Batch 80/594] Avg Loss: 4.6027 | Acc so far: 1.67% | F1 so far: 0.0010
+  [Batch 90/594] Avg Loss: 4.6017 | Acc so far: 1.48% | F1 so far: 0.0008
+  [Batch 100/594] Avg Loss: 4.6028 | Acc so far: 1.33% | F1 so far: 0.0006
+  [Batch 110/594] Avg Loss: 4.6015 | Acc so far: 1.52% | F1 so far: 0.0008
+  [Batch 120/594] Avg Loss: 4.6022 | Acc so far: 1.67% | F1 so far: 0.0010
+  [Batch 130/594] Avg Loss: 4.6024 | Acc so far: 1.79% | F1 so far: 0.0011
+  [Batch 140/594] Avg Loss: 4.6022 | Acc so far: 1.90% | F1 so far: 0.0012
+  [Batch 150/594] Avg Loss: 4.6018 | Acc so far: 2.00% | F1 so far: 0.0051
+  [Batch 160/594] Avg Loss: 4.6031 | Acc so far: 1.88% | F1 so far: 0.0029
+  [Batch 170/594] Avg Loss: 4.5991 | Acc so far: 2.16% | F1 so far: 0.0046
+  [Batch 180/594] Avg Loss: 4.6049 | Acc so far: 2.04% | F1 so far: 0.0031
+  [Batch 190/594] Avg Loss: 4.6067 | Acc so far: 1.93% | F1 so far: 0.0026
+  [Batch 200/594] Avg Loss: 4.6070 | Acc so far: 1.83% | F1 so far: 0.0023
+  [Batch 210/594] Avg Loss: 4.6072 | Acc so far: 1.75% | F1 so far: 0.0020
+  [Batch 220/594] Avg Loss: 4.6071 | Acc so far: 1.82% | F1 so far: 0.0020
+  [Batch 230/594] Avg Loss: 4.6079 | Acc so far: 1.88% | F1 so far: 0.0020
+  [Batch 240/594] Avg Loss: 4.6083 | Acc so far: 1.81% | F1 so far: 0.0019
+  [Batch 250/594] Avg Loss: 4.6076 | Acc so far: 1.87% | F1 so far: 0.0020
+  [Batch 260/594] Avg Loss: 4.6076 | Acc so far: 1.79% | F1 so far: 0.0019
+  [Batch 270/594] Avg Loss: 4.6079 | Acc so far: 1.73% | F1 so far: 0.0018
+  [Batch 280/594] Avg Loss: 4.6073 | Acc so far: 1.67% | F1 so far: 0.0018
+  [Batch 290/594] Avg Loss: 4.6068 | Acc so far: 1.72% | F1 so far: 0.0018
+  [Batch 300/594] Avg Loss: 4.6074 | Acc so far: 1.67% | F1 so far: 0.0019
+  [Batch 310/594] Avg Loss: 4.6074 | Acc so far: 1.72% | F1 so far: 0.0019
+  [Batch 320/594] Avg Loss: 4.6074 | Acc so far: 1.67% | F1 so far: 0.0018
+  [Batch 330/594] Avg Loss: 4.6076 | Acc so far: 1.62% | F1 so far: 0.0017
+  [Batch 340/594] Avg Loss: 4.6078 | Acc so far: 1.57% | F1 so far: 0.0017
+  [Batch 350/594] Avg Loss: 4.6076 | Acc so far: 1.71% | F1 so far: 0.0018
+  [Batch 360/594] Avg Loss: 4.6081 | Acc so far: 1.67% | F1 so far: 0.0017
+  [Batch 370/594] Avg Loss: 4.6082 | Acc so far: 1.62% | F1 so far: 0.0017
+  [Batch 380/594] Avg Loss: 4.6081 | Acc so far: 1.67% | F1 so far: 0.0018
+  [Batch 390/594] Avg Loss: 4.6075 | Acc so far: 1.71% | F1 so far: 0.0018
+  [Batch 400/594] Avg Loss: 4.6068 | Acc so far: 1.92% | F1 so far: 0.0021
+  [Batch 410/594] Avg Loss: 4.6069 | Acc so far: 1.87% | F1 so far: 0.0020
+  [Batch 420/594] Avg Loss: 4.6070 | Acc so far: 1.83% | F1 so far: 0.0019
+  [Batch 430/594] Avg Loss: 4.6067 | Acc so far: 1.78% | F1 so far: 0.0019
+  [Batch 440/594] Avg Loss: 4.6069 | Acc so far: 1.74% | F1 so far: 0.0018
+  [Batch 450/594] Avg Loss: 4.6070 | Acc so far: 1.70% | F1 so far: 0.0018
+  [Batch 460/594] Avg Loss: 4.6073 | Acc so far: 1.74% | F1 so far: 0.0019
+  [Batch 470/594] Avg Loss: 4.6075 | Acc so far: 1.70% | F1 so far: 0.0018
+  [Batch 480/594] Avg Loss: 4.6073 | Acc so far: 1.67% | F1 so far: 0.0017
+  [Batch 490/594] Avg Loss: 4.6071 | Acc so far: 1.70% | F1 so far: 0.0018
+  [Batch 500/594] Avg Loss: 4.6071 | Acc so far: 1.73% | F1 so far: 0.0018
+  [Batch 510/594] Avg Loss: 4.6066 | Acc so far: 1.96% | F1 so far: 0.0020
+  [Batch 520/594] Avg Loss: 4.6068 | Acc so far: 1.92% | F1 so far: 0.0020
+  [Batch 530/594] Avg Loss: 4.6070 | Acc so far: 1.89% | F1 so far: 0.0019
+  [Batch 540/594] Avg Loss: 4.6065 | Acc so far: 1.98% | F1 so far: 0.0021
+  [Batch 550/594] Avg Loss: 4.6067 | Acc so far: 2.06% | F1 so far: 0.0022
+  [Batch 560/594] Avg Loss: 4.6071 | Acc so far: 2.02% | F1 so far: 0.0021
+  [Batch 570/594] Avg Loss: 4.6076 | Acc so far: 2.05% | F1 so far: 0.0021
+  [Batch 580/594] Avg Loss: 4.6076 | Acc so far: 2.01% | F1 so far: 0.0021
+  [Batch 590/594] Avg Loss: 4.6082 | Acc so far: 1.98% | F1 so far: 0.0020
+Train - Loss: 4.6082 | Acc: 1.97% | F1: 0.0020
+Val   - Loss: 4.6011 | Acc: 1.55% | F1: 0.0005
+Best model saved: /export/fhome/jcomes/WLASL1/WLASL/I3D/checkpoints/best_model_epoch_2_v6.pth
+
+=== Epoch 3 ===
+  [Batch 10/594] Avg Loss: 4.6000 | Acc so far: 3.33% | F1 so far: 0.0037
+  [Batch 20/594] Avg Loss: 4.5922 | Acc so far: 5.00% | F1 so far: 0.0065
+  [Batch 30/594] Avg Loss: 4.5920 | Acc so far: 3.33% | F1 so far: 0.0026
+  [Batch 40/594] Avg Loss: 4.5901 | Acc so far: 3.33% | F1 so far: 0.0034
+  [Batch 50/594] Avg Loss: 4.5898 | Acc so far: 3.33% | F1 so far: 0.0028
+  [Batch 60/594] Avg Loss: 4.5855 | Acc so far: 3.89% | F1 so far: 0.0035
+  [Batch 70/594] Avg Loss: 4.5917 | Acc so far: 3.33% | F1 so far: 0.0028
+  [Batch 80/594] Avg Loss: 4.5956 | Acc so far: 2.92% | F1 so far: 0.0022
+  [Batch 90/594] Avg Loss: 4.5970 | Acc so far: 2.96% | F1 so far: 0.0025
+  [Batch 100/594] Avg Loss: 4.6012 | Acc so far: 2.67% | F1 so far: 0.0021
+  [Batch 110/594] Avg Loss: 4.6004 | Acc so far: 2.42% | F1 so far: 0.0017
+  [Batch 120/594] Avg Loss: 4.6044 | Acc so far: 2.22% | F1 so far: 0.0014
+  [Batch 130/594] Avg Loss: 4.6005 | Acc so far: 2.56% | F1 so far: 0.0022
+  [Batch 140/594] Avg Loss: 4.6043 | Acc so far: 2.38% | F1 so far: 0.0017
+  [Batch 150/594] Avg Loss: 4.6048 | Acc so far: 2.22% | F1 so far: 0.0017
+  [Batch 160/594] Avg Loss: 4.6032 | Acc so far: 2.08% | F1 so far: 0.0016
+  [Batch 170/594] Avg Loss: 4.6072 | Acc so far: 1.96% | F1 so far: 0.0014
+  [Batch 180/594] Avg Loss: 4.6054 | Acc so far: 2.04% | F1 so far: 0.0016
+  [Batch 190/594] Avg Loss: 4.6046 | Acc so far: 1.93% | F1 so far: 0.0016
+  [Batch 200/594] Avg Loss: 4.6060 | Acc so far: 1.83% | F1 so far: 0.0015
+  [Batch 210/594] Avg Loss: 4.6080 | Acc so far: 1.75% | F1 so far: 0.0013
+  [Batch 220/594] Avg Loss: 4.6073 | Acc so far: 2.12% | F1 so far: 0.0017
+  [Batch 230/594] Avg Loss: 4.6092 | Acc so far: 2.03% | F1 so far: 0.0016
+  [Batch 240/594] Avg Loss: 4.6095 | Acc so far: 2.08% | F1 so far: 0.0016
+  [Batch 250/594] Avg Loss: 4.6100 | Acc so far: 2.00% | F1 so far: 0.0015
+  [Batch 260/594] Avg Loss: 4.6106 | Acc so far: 1.92% | F1 so far: 0.0014
+  [Batch 270/594] Avg Loss: 4.6106 | Acc so far: 1.85% | F1 so far: 0.0014
+  [Batch 280/594] Avg Loss: 4.6104 | Acc so far: 1.90% | F1 so far: 0.0014
+  [Batch 290/594] Avg Loss: 4.6108 | Acc so far: 1.84% | F1 so far: 0.0013
+  [Batch 300/594] Avg Loss: 4.6111 | Acc so far: 1.78% | F1 so far: 0.0012
+  [Batch 310/594] Avg Loss: 4.6112 | Acc so far: 1.72% | F1 so far: 0.0012
+  [Batch 320/594] Avg Loss: 4.6109 | Acc so far: 1.77% | F1 so far: 0.0012
+  [Batch 330/594] Avg Loss: 4.6098 | Acc so far: 1.82% | F1 so far: 0.0013
+  [Batch 340/594] Avg Loss: 4.6097 | Acc so far: 1.86% | F1 so far: 0.0014
+  [Batch 350/594] Avg Loss: 4.6111 | Acc so far: 1.90% | F1 so far: 0.0014
+  [Batch 360/594] Avg Loss: 4.6102 | Acc so far: 2.04% | F1 so far: 0.0017
+  [Batch 370/594] Avg Loss: 4.6115 | Acc so far: 2.07% | F1 so far: 0.0016
+  [Batch 380/594] Avg Loss: 4.6102 | Acc so far: 2.19% | F1 so far: 0.0018
+  [Batch 390/594] Avg Loss: 4.6121 | Acc so far: 2.22% | F1 so far: 0.0018
+  [Batch 400/594] Avg Loss: 4.6126 | Acc so far: 2.17% | F1 so far: 0.0017
+  [Batch 410/594] Avg Loss: 4.6122 | Acc so far: 2.28% | F1 so far: 0.0018
+  [Batch 420/594] Avg Loss: 4.6132 | Acc so far: 2.30% | F1 so far: 0.0018
+  [Batch 430/594] Avg Loss: 4.6134 | Acc so far: 2.25% | F1 so far: 0.0017
+  [Batch 440/594] Avg Loss: 4.6132 | Acc so far: 2.27% | F1 so far: 0.0018
+  [Batch 450/594] Avg Loss: 4.6130 | Acc so far: 2.22% | F1 so far: 0.0017
+  [Batch 460/594] Avg Loss: 4.6140 | Acc so far: 2.17% | F1 so far: 0.0017
+  [Batch 470/594] Avg Loss: 4.6140 | Acc so far: 2.20% | F1 so far: 0.0017
+  [Batch 480/594] Avg Loss: 4.6139 | Acc so far: 2.15% | F1 so far: 0.0016
+  [Batch 490/594] Avg Loss: 4.6135 | Acc so far: 2.11% | F1 so far: 0.0016
+  [Batch 500/594] Avg Loss: 4.6132 | Acc so far: 2.07% | F1 so far: 0.0016
+  [Batch 510/594] Avg Loss: 4.6134 | Acc so far: 2.03% | F1 so far: 0.0015
+  [Batch 520/594] Avg Loss: 4.6130 | Acc so far: 2.05% | F1 so far: 0.0016
+  [Batch 530/594] Avg Loss: 4.6117 | Acc so far: 2.14% | F1 so far: 0.0017
+  [Batch 540/594] Avg Loss: 4.6125 | Acc so far: 2.10% | F1 so far: 0.0016
+  [Batch 550/594] Avg Loss: 4.6131 | Acc so far: 2.06% | F1 so far: 0.0016
+  [Batch 560/594] Avg Loss: 4.6141 | Acc so far: 2.08% | F1 so far: 0.0016
+  [Batch 570/594] Avg Loss: 4.6140 | Acc so far: 2.05% | F1 so far: 0.0015
+  [Batch 580/594] Avg Loss: 4.6139 | Acc so far: 2.01% | F1 so far: 0.0015
+  [Batch 590/594] Avg Loss: 4.6134 | Acc so far: 2.03% | F1 so far: 0.0015
+Train - Loss: 4.6138 | Acc: 2.02% | F1: 0.0015
+Val   - Loss: 4.5982 | Acc: 1.55% | F1: 0.0005
+No improvement for 1 epochs
+
+=== Epoch 4 ===
+  [Batch 10/594] Avg Loss: 4.5911 | Acc so far: 3.33% | F1 so far: 0.0022
+  [Batch 20/594] Avg Loss: 4.5996 | Acc so far: 1.67% | F1 so far: 0.0005
+  [Batch 30/594] Avg Loss: 4.5963 | Acc so far: 1.11% | F1 so far: 0.0002
+  [Batch 40/594] Avg Loss: 4.6058 | Acc so far: 0.83% | F1 so far: 0.0001
+  [Batch 50/594] Avg Loss: 4.6052 | Acc so far: 0.67% | F1 so far: 0.0001
+  [Batch 60/594] Avg Loss: 4.6079 | Acc so far: 0.56% | F1 so far: 0.0001
+  [Batch 70/594] Avg Loss: 4.6058 | Acc so far: 0.48% | F1 so far: 0.0000
+  [Batch 80/594] Avg Loss: 4.6054 | Acc so far: 0.83% | F1 so far: 0.0001
+  [Batch 90/594] Avg Loss: 4.6084 | Acc so far: 0.74% | F1 so far: 0.0001
+  [Batch 100/594] Avg Loss: 4.6087 | Acc so far: 0.67% | F1 so far: 0.0001
+  [Batch 110/594] Avg Loss: 4.6092 | Acc so far: 0.91% | F1 so far: 0.0011
+  [Batch 120/594] Avg Loss: 4.6074 | Acc so far: 1.11% | F1 so far: 0.0009
+  [Batch 130/594] Avg Loss: 4.6122 | Acc so far: 1.03% | F1 so far: 0.0007
+  [Batch 140/594] Avg Loss: 4.6134 | Acc so far: 0.95% | F1 so far: 0.0005
+  [Batch 150/594] Avg Loss: 4.6123 | Acc so far: 1.33% | F1 so far: 0.0010
+  [Batch 160/594] Avg Loss: 4.6132 | Acc so far: 1.25% | F1 so far: 0.0008
+  [Batch 170/594] Avg Loss: 4.6129 | Acc so far: 1.18% | F1 so far: 0.0008
+  [Batch 180/594] Avg Loss: 4.6123 | Acc so far: 1.30% | F1 so far: 0.0007
+  [Batch 190/594] Avg Loss: 4.6108 | Acc so far: 1.40% | F1 so far: 0.0008
+  [Batch 200/594] Avg Loss: 4.6077 | Acc so far: 1.67% | F1 so far: 0.0012
+  [Batch 210/594] Avg Loss: 4.6085 | Acc so far: 1.59% | F1 so far: 0.0011
+  [Batch 220/594] Avg Loss: 4.6088 | Acc so far: 1.67% | F1 so far: 0.0011
+  [Batch 230/594] Avg Loss: 4.6086 | Acc so far: 1.59% | F1 so far: 0.0011
+  [Batch 240/594] Avg Loss: 4.6077 | Acc so far: 1.67% | F1 so far: 0.0012
+  [Batch 250/594] Avg Loss: 4.6066 | Acc so far: 1.73% | F1 so far: 0.0013
+  [Batch 260/594] Avg Loss: 4.6061 | Acc so far: 1.79% | F1 so far: 0.0014
+  [Batch 270/594] Avg Loss: 4.6060 | Acc so far: 1.73% | F1 so far: 0.0013
+  [Batch 280/594] Avg Loss: 4.6065 | Acc so far: 1.79% | F1 so far: 0.0013
+  [Batch 290/594] Avg Loss: 4.6047 | Acc so far: 1.95% | F1 so far: 0.0016
+  [Batch 300/594] Avg Loss: 4.6043 | Acc so far: 1.89% | F1 so far: 0.0015
+  [Batch 310/594] Avg Loss: 4.6037 | Acc so far: 1.83% | F1 so far: 0.0015
+  [Batch 320/594] Avg Loss: 4.6039 | Acc so far: 1.77% | F1 so far: 0.0014
+  [Batch 330/594] Avg Loss: 4.6045 | Acc so far: 1.82% | F1 so far: 0.0014
+  [Batch 340/594] Avg Loss: 4.6051 | Acc so far: 1.86% | F1 so far: 0.0014
+  [Batch 350/594] Avg Loss: 4.6047 | Acc so far: 1.81% | F1 so far: 0.0014
+  [Batch 360/594] Avg Loss: 4.6048 | Acc so far: 1.76% | F1 so far: 0.0013
+  [Batch 370/594] Avg Loss: 4.6052 | Acc so far: 1.80% | F1 so far: 0.0013
+  [Batch 380/594] Avg Loss: 4.6052 | Acc so far: 1.75% | F1 so far: 0.0013
+  [Batch 390/594] Avg Loss: 4.6057 | Acc so far: 1.79% | F1 so far: 0.0014
+  [Batch 400/594] Avg Loss: 4.6060 | Acc so far: 1.75% | F1 so far: 0.0013
+  [Batch 410/594] Avg Loss: 4.6059 | Acc so far: 1.71% | F1 so far: 0.0013
+  [Batch 420/594] Avg Loss: 4.6062 | Acc so far: 1.67% | F1 so far: 0.0012
+  [Batch 430/594] Avg Loss: 4.6064 | Acc so far: 1.63% | F1 so far: 0.0012
+  [Batch 440/594] Avg Loss: 4.6065 | Acc so far: 1.67% | F1 so far: 0.0012
+  [Batch 450/594] Avg Loss: 4.6065 | Acc so far: 1.70% | F1 so far: 0.0012
+  [Batch 460/594] Avg Loss: 4.6062 | Acc so far: 1.81% | F1 so far: 0.0013
+  [Batch 470/594] Avg Loss: 4.6064 | Acc so far: 1.77% | F1 so far: 0.0013
+  [Batch 480/594] Avg Loss: 4.6069 | Acc so far: 1.74% | F1 so far: 0.0012
+  [Batch 490/594] Avg Loss: 4.6075 | Acc so far: 1.70% | F1 so far: 0.0012
+  [Batch 500/594] Avg Loss: 4.6080 | Acc so far: 1.67% | F1 so far: 0.0012
+  [Batch 510/594] Avg Loss: 4.6077 | Acc so far: 1.76% | F1 so far: 0.0012
+  [Batch 520/594] Avg Loss: 4.6080 | Acc so far: 1.73% | F1 so far: 0.0012
+  [Batch 530/594] Avg Loss: 4.6079 | Acc so far: 1.76% | F1 so far: 0.0012
+  [Batch 540/594] Avg Loss: 4.6078 | Acc so far: 1.73% | F1 so far: 0.0012
+  [Batch 550/594] Avg Loss: 4.6081 | Acc so far: 1.76% | F1 so far: 0.0012
+  [Batch 560/594] Avg Loss: 4.6079 | Acc so far: 1.79% | F1 so far: 0.0012
+  [Batch 570/594] Avg Loss: 4.6082 | Acc so far: 1.81% | F1 so far: 0.0012
+  [Batch 580/594] Avg Loss: 4.6079 | Acc so far: 1.78% | F1 so far: 0.0012
+  [Batch 590/594] Avg Loss: 4.6077 | Acc so far: 1.75% | F1 so far: 0.0012
+Train - Loss: 4.6073 | Acc: 1.85% | F1: 0.0013
+Val   - Loss: 4.5998 | Acc: 1.55% | F1: 0.0005
+No improvement for 2 epochs
+
+=== Epoch 5 ===
+  [Batch 10/594] Avg Loss: 4.5895 | Acc so far: 0.00% | F1 so far: 0.0000
+  [Batch 20/594] Avg Loss: 4.5667 | Acc so far: 8.33% | F1 so far: 0.0128
+  [Batch 30/594] Avg Loss: 4.5806 | Acc so far: 5.56% | F1 so far: 0.0058
+  [Batch 40/594] Avg Loss: 4.5854 | Acc so far: 5.00% | F1 so far: 0.0048
+  [Batch 50/594] Avg Loss: 4.5900 | Acc so far: 4.00% | F1 so far: 0.0031
+  [Batch 60/594] Avg Loss: 4.5887 | Acc so far: 4.44% | F1 so far: 0.0038
+  [Batch 70/594] Avg Loss: 4.5895 | Acc so far: 3.81% | F1 so far: 0.0028
+  [Batch 80/594] Avg Loss: 4.5852 | Acc so far: 3.75% | F1 so far: 0.0027
+  [Batch 90/594] Avg Loss: 4.5872 | Acc so far: 3.33% | F1 so far: 0.0022
+  [Batch 100/594] Avg Loss: 4.5909 | Acc so far: 3.00% | F1 so far: 0.0017
+  [Batch 110/594] Avg Loss: 4.5882 | Acc so far: 3.03% | F1 so far: 0.0018
+  [Batch 120/594] Avg Loss: 4.5905 | Acc so far: 3.06% | F1 so far: 0.0018
+  [Batch 130/594] Avg Loss: 4.5926 | Acc so far: 2.82% | F1 so far: 0.0015
+  [Batch 140/594] Avg Loss: 4.5923 | Acc so far: 2.62% | F1 so far: 0.0013
+  [Batch 150/594] Avg Loss: 4.5941 | Acc so far: 2.67% | F1 so far: 0.0014
+  [Batch 160/594] Avg Loss: 4.5970 | Acc so far: 2.50% | F1 so far: 0.0012
+  [Batch 170/594] Avg Loss: 4.5966 | Acc so far: 2.35% | F1 so far: 0.0011
+  [Batch 180/594] Avg Loss: 4.5989 | Acc so far: 2.22% | F1 so far: 0.0010
+  [Batch 190/594] Avg Loss: 4.5988 | Acc so far: 2.28% | F1 so far: 0.0010
+  [Batch 200/594] Avg Loss: 4.5986 | Acc so far: 2.17% | F1 so far: 0.0009
+  [Batch 210/594] Avg Loss: 4.6007 | Acc so far: 2.06% | F1 so far: 0.0008
+  [Batch 220/594] Avg Loss: 4.6016 | Acc so far: 1.97% | F1 so far: 0.0008
+  [Batch 230/594] Avg Loss: 4.6010 | Acc so far: 2.03% | F1 so far: 0.0008
+  [Batch 240/594] Avg Loss: 4.6019 | Acc so far: 1.94% | F1 so far: 0.0007
+  [Batch 250/594] Avg Loss: 4.6027 | Acc so far: 1.87% | F1 so far: 0.0007
+  [Batch 260/594] Avg Loss: 4.6029 | Acc so far: 1.92% | F1 so far: 0.0007
+  [Batch 270/594] Avg Loss: 4.6032 | Acc so far: 1.85% | F1 so far: 0.0007
+  [Batch 280/594] Avg Loss: 4.6043 | Acc so far: 1.79% | F1 so far: 0.0006
+  [Batch 290/594] Avg Loss: 4.6040 | Acc so far: 1.72% | F1 so far: 0.0006
+  [Batch 300/594] Avg Loss: 4.6044 | Acc so far: 1.67% | F1 so far: 0.0006
+  [Batch 310/594] Avg Loss: 4.6040 | Acc so far: 1.72% | F1 so far: 0.0006
+  [Batch 320/594] Avg Loss: 4.6035 | Acc so far: 1.67% | F1 so far: 0.0006
+  [Batch 330/594] Avg Loss: 4.6045 | Acc so far: 1.62% | F1 so far: 0.0006
+  [Batch 340/594] Avg Loss: 4.6056 | Acc so far: 1.57% | F1 so far: 0.0005
+  [Batch 350/594] Avg Loss: 4.6056 | Acc so far: 1.71% | F1 so far: 0.0006
+  [Batch 360/594] Avg Loss: 4.6060 | Acc so far: 1.85% | F1 so far: 0.0007
+  [Batch 370/594] Avg Loss: 4.6061 | Acc so far: 1.80% | F1 so far: 0.0007
+  [Batch 380/594] Avg Loss: 4.6060 | Acc so far: 1.75% | F1 so far: 0.0006
+  [Batch 390/594] Avg Loss: 4.6054 | Acc so far: 1.88% | F1 so far: 0.0007
+  [Batch 400/594] Avg Loss: 4.6057 | Acc so far: 1.83% | F1 so far: 0.0007
+  [Batch 410/594] Avg Loss: 4.6056 | Acc so far: 1.79% | F1 so far: 0.0007
+  [Batch 420/594] Avg Loss: 4.6055 | Acc so far: 1.83% | F1 so far: 0.0007
+  [Batch 430/594] Avg Loss: 4.6050 | Acc so far: 1.86% | F1 so far: 0.0007
+  [Batch 440/594] Avg Loss: 4.6054 | Acc so far: 1.82% | F1 so far: 0.0007
+  [Batch 450/594] Avg Loss: 4.6046 | Acc so far: 1.78% | F1 so far: 0.0007
+  [Batch 460/594] Avg Loss: 4.6048 | Acc so far: 1.74% | F1 so far: 0.0007
+  [Batch 470/594] Avg Loss: 4.6055 | Acc so far: 1.70% | F1 so far: 0.0006
+  [Batch 480/594] Avg Loss: 4.6057 | Acc so far: 1.67% | F1 so far: 0.0006
+  [Batch 490/594] Avg Loss: 4.6071 | Acc so far: 1.63% | F1 so far: 0.0006
+  [Batch 500/594] Avg Loss: 4.6078 | Acc so far: 1.67% | F1 so far: 0.0006
+  [Batch 510/594] Avg Loss: 4.6080 | Acc so far: 1.63% | F1 so far: 0.0006
+  [Batch 520/594] Avg Loss: 4.6069 | Acc so far: 1.67% | F1 so far: 0.0012
+  [Batch 530/594] Avg Loss: 4.6066 | Acc so far: 1.70% | F1 so far: 0.0012
+  [Batch 540/594] Avg Loss: 4.6063 | Acc so far: 1.73% | F1 so far: 0.0012
+  [Batch 550/594] Avg Loss: 4.6063 | Acc so far: 1.76% | F1 so far: 0.0012
+  [Batch 560/594] Avg Loss: 4.6071 | Acc so far: 1.79% | F1 so far: 0.0012
+  [Batch 570/594] Avg Loss: 4.6078 | Acc so far: 1.75% | F1 so far: 0.0012
+  [Batch 580/594] Avg Loss: 4.6080 | Acc so far: 1.78% | F1 so far: 0.0012
+  [Batch 590/594] Avg Loss: 4.6081 | Acc so far: 1.86% | F1 so far: 0.0012
+Train - Loss: 4.6080 | Acc: 1.85% | F1: 0.0012
+Val   - Loss: 4.7631 | Acc: 1.55% | F1: 0.0005
+No improvement for 3 epochs
+
+=== Epoch 6 ===
+  [Batch 10/594] Avg Loss: 4.5366 | Acc so far: 10.00% | F1 so far: 0.0182
+  [Batch 20/594] Avg Loss: 4.5619 | Acc so far: 6.67% | F1 so far: 0.0083
+  [Batch 30/594] Avg Loss: 4.5946 | Acc so far: 4.44% | F1 so far: 0.0038
+  [Batch 40/594] Avg Loss: 4.5981 | Acc so far: 3.33% | F1 so far: 0.0022
+  [Batch 50/594] Avg Loss: 4.5955 | Acc so far: 3.33% | F1 so far: 0.0022
+  [Batch 60/594] Avg Loss: 4.5884 | Acc so far: 2.78% | F1 so far: 0.0015
+  [Batch 70/594] Avg Loss: 4.5951 | Acc so far: 2.38% | F1 so far: 0.0011
+  [Batch 80/594] Avg Loss: 4.5871 | Acc so far: 2.50% | F1 so far: 0.0012
+  [Batch 90/594] Avg Loss: 4.5829 | Acc so far: 2.96% | F1 so far: 0.0017
+  [Batch 100/594] Avg Loss: 4.5875 | Acc so far: 2.67% | F1 so far: 0.0014
+  [Batch 110/594] Avg Loss: 4.5936 | Acc so far: 2.42% | F1 so far: 0.0012
+  [Batch 120/594] Avg Loss: 4.5950 | Acc so far: 2.22% | F1 so far: 0.0010
+  [Batch 130/594] Avg Loss: 4.5964 | Acc so far: 2.31% | F1 so far: 0.0010
+  [Batch 140/594] Avg Loss: 4.5988 | Acc so far: 2.14% | F1 so far: 0.0009
+  [Batch 150/594] Avg Loss: 4.6022 | Acc so far: 2.00% | F1 so far: 0.0008
+  [Batch 160/594] Avg Loss: 4.6031 | Acc so far: 2.08% | F1 so far: 0.0009
+  [Batch 170/594] Avg Loss: 4.6025 | Acc so far: 1.96% | F1 so far: 0.0008
+  [Batch 180/594] Avg Loss: 4.6019 | Acc so far: 2.04% | F1 so far: 0.0008
+  [Batch 190/594] Avg Loss: 4.6019 | Acc so far: 2.11% | F1 so far: 0.0009
+  [Batch 200/594] Avg Loss: 4.6038 | Acc so far: 2.00% | F1 so far: 0.0008
+  [Batch 210/594] Avg Loss: 4.6048 | Acc so far: 1.90% | F1 so far: 0.0007
+  [Batch 220/594] Avg Loss: 4.6059 | Acc so far: 1.97% | F1 so far: 0.0008
+  [Batch 230/594] Avg Loss: 4.6061 | Acc so far: 1.88% | F1 so far: 0.0007
+  [Batch 240/594] Avg Loss: 4.6064 | Acc so far: 1.94% | F1 so far: 0.0007
+  [Batch 250/594] Avg Loss: 4.6063 | Acc so far: 1.87% | F1 so far: 0.0007
+  [Batch 260/594] Avg Loss: 4.6051 | Acc so far: 1.92% | F1 so far: 0.0007
+  [Batch 270/594] Avg Loss: 4.6042 | Acc so far: 1.85% | F1 so far: 0.0007
+  [Batch 280/594] Avg Loss: 4.6035 | Acc so far: 1.79% | F1 so far: 0.0006
+  [Batch 290/594] Avg Loss: 4.6042 | Acc so far: 1.84% | F1 so far: 0.0007
+  [Batch 300/594] Avg Loss: 4.6039 | Acc so far: 1.89% | F1 so far: 0.0008
+  [Batch 310/594] Avg Loss: 4.6039 | Acc so far: 1.83% | F1 so far: 0.0007
+  [Batch 320/594] Avg Loss: 4.6064 | Acc so far: 1.77% | F1 so far: 0.0007
+  [Batch 330/594] Avg Loss: 4.6055 | Acc so far: 1.92% | F1 so far: 0.0008
+  [Batch 340/594] Avg Loss: 4.6074 | Acc so far: 1.86% | F1 so far: 0.0007
+  [Batch 350/594] Avg Loss: 4.6064 | Acc so far: 2.00% | F1 so far: 0.0014
+  [Batch 360/594] Avg Loss: 4.6059 | Acc so far: 1.94% | F1 so far: 0.0013
+  [Batch 370/594] Avg Loss: 4.6073 | Acc so far: 1.89% | F1 so far: 0.0012
+  [Batch 380/594] Avg Loss: 4.6072 | Acc so far: 1.93% | F1 so far: 0.0012
+  [Batch 390/594] Avg Loss: 4.6068 | Acc so far: 1.97% | F1 so far: 0.0012
+  [Batch 400/594] Avg Loss: 4.6070 | Acc so far: 2.00% | F1 so far: 0.0012
+  [Batch 410/594] Avg Loss: 4.6078 | Acc so far: 1.95% | F1 so far: 0.0012
+  [Batch 420/594] Avg Loss: 4.6087 | Acc so far: 1.90% | F1 so far: 0.0011
+  [Batch 430/594] Avg Loss: 4.6074 | Acc so far: 1.94% | F1 so far: 0.0011
+  [Batch 440/594] Avg Loss: 4.6076 | Acc so far: 1.89% | F1 so far: 0.0011
+  [Batch 450/594] Avg Loss: 4.6068 | Acc so far: 1.93% | F1 so far: 0.0011
+  [Batch 460/594] Avg Loss: 4.6064 | Acc so far: 1.96% | F1 so far: 0.0011
+  [Batch 470/594] Avg Loss: 4.6065 | Acc so far: 1.91% | F1 so far: 0.0011
+  [Batch 480/594] Avg Loss: 4.6071 | Acc so far: 1.94% | F1 so far: 0.0011
+  [Batch 490/594] Avg Loss: 4.6081 | Acc so far: 1.90% | F1 so far: 0.0011
+  [Batch 500/594] Avg Loss: 4.6081 | Acc so far: 1.93% | F1 so far: 0.0011
+  [Batch 510/594] Avg Loss: 4.6085 | Acc so far: 1.96% | F1 so far: 0.0011
+  [Batch 520/594] Avg Loss: 4.6081 | Acc so far: 1.92% | F1 so far: 0.0011
+  [Batch 530/594] Avg Loss: 4.6087 | Acc so far: 1.89% | F1 so far: 0.0010
+  [Batch 540/594] Avg Loss: 4.6085 | Acc so far: 1.98% | F1 so far: 0.0011
+  [Batch 550/594] Avg Loss: 4.6084 | Acc so far: 2.00% | F1 so far: 0.0011
+  [Batch 560/594] Avg Loss: 4.6079 | Acc so far: 2.02% | F1 so far: 0.0011
+  [Batch 570/594] Avg Loss: 4.6072 | Acc so far: 2.11% | F1 so far: 0.0012
+  [Batch 580/594] Avg Loss: 4.6071 | Acc so far: 2.07% | F1 so far: 0.0012
+  [Batch 590/594] Avg Loss: 4.6072 | Acc so far: 2.03% | F1 so far: 0.0011
+Train - Loss: 4.6073 | Acc: 2.02% | F1: 0.0011
+Val   - Loss: 4.5979 | Acc: 1.55% | F1: 0.0005
+No improvement for 4 epochs
+
+=== Epoch 7 ===
+  [Batch 10/594] Avg Loss: 4.5853 | Acc so far: 3.33% | F1 so far: 0.0022
+  [Batch 20/594] Avg Loss: 4.5882 | Acc so far: 1.67% | F1 so far: 0.0005
+  [Batch 30/594] Avg Loss: 4.5938 | Acc so far: 2.22% | F1 so far: 0.0010
+  [Batch 40/594] Avg Loss: 4.5910 | Acc so far: 2.50% | F1 so far: 0.0012
+  [Batch 50/594] Avg Loss: 4.5902 | Acc so far: 3.33% | F1 so far: 0.0022
+  [Batch 60/594] Avg Loss: 4.5879 | Acc so far: 2.78% | F1 so far: 0.0015
+  [Batch 70/594] Avg Loss: 4.5853 | Acc so far: 2.86% | F1 so far: 0.0016
+  [Batch 80/594] Avg Loss: 4.5902 | Acc so far: 2.50% | F1 so far: 0.0012
+  [Batch 90/594] Avg Loss: 4.5919 | Acc so far: 2.22% | F1 so far: 0.0010
+  [Batch 100/594] Avg Loss: 4.5922 | Acc so far: 2.33% | F1 so far: 0.0011
+  [Batch 110/594] Avg Loss: 4.5905 | Acc so far: 2.73% | F1 so far: 0.0014
+  [Batch 120/594] Avg Loss: 4.5896 | Acc so far: 2.78% | F1 so far: 0.0015
+  [Batch 130/594] Avg Loss: 4.5884 | Acc so far: 2.56% | F1 so far: 0.0013
+  [Batch 140/594] Avg Loss: 4.5905 | Acc so far: 2.38% | F1 so far: 0.0011
+  [Batch 150/594] Avg Loss: 4.5923 | Acc so far: 2.22% | F1 so far: 0.0010
+  [Batch 160/594] Avg Loss: 4.5953 | Acc so far: 2.08% | F1 so far: 0.0009
+  [Batch 170/594] Avg Loss: 4.5908 | Acc so far: 2.35% | F1 so far: 0.0011
+  [Batch 180/594] Avg Loss: 4.5916 | Acc so far: 2.22% | F1 so far: 0.0010
+  [Batch 190/594] Avg Loss: 4.5931 | Acc so far: 2.11% | F1 so far: 0.0009
+  [Batch 200/594] Avg Loss: 4.5934 | Acc so far: 2.00% | F1 so far: 0.0008
+  [Batch 210/594] Avg Loss: 4.5957 | Acc so far: 1.90% | F1 so far: 0.0007
+  [Batch 220/594] Avg Loss: 4.5983 | Acc so far: 1.82% | F1 so far: 0.0006
+  [Batch 230/594] Avg Loss: 4.6004 | Acc so far: 1.74% | F1 so far: 0.0006
+  [Batch 240/594] Avg Loss: 4.6001 | Acc so far: 1.81% | F1 so far: 0.0006
+  [Batch 250/594] Avg Loss: 4.6000 | Acc so far: 1.73% | F1 so far: 0.0006
+  [Batch 260/594] Avg Loss: 4.5997 | Acc so far: 1.67% | F1 so far: 0.0005
+  [Batch 270/594] Avg Loss: 4.5998 | Acc so far: 1.60% | F1 so far: 0.0005
+  [Batch 280/594] Avg Loss: 4.5994 | Acc so far: 1.55% | F1 so far: 0.0005
+  [Batch 290/594] Avg Loss: 4.5973 | Acc so far: 1.72% | F1 so far: 0.0006
+  [Batch 300/594] Avg Loss: 4.5973 | Acc so far: 1.67% | F1 so far: 0.0005
+  [Batch 310/594] Avg Loss: 4.5980 | Acc so far: 1.72% | F1 so far: 0.0006
+  [Batch 320/594] Avg Loss: 4.5996 | Acc so far: 1.67% | F1 so far: 0.0005
+  [Batch 330/594] Avg Loss: 4.6000 | Acc so far: 1.62% | F1 so far: 0.0005
+  [Batch 340/594] Avg Loss: 4.5990 | Acc so far: 1.76% | F1 so far: 0.0006
+  [Batch 350/594] Avg Loss: 4.5971 | Acc so far: 1.81% | F1 so far: 0.0006
+  [Batch 360/594] Avg Loss: 4.5980 | Acc so far: 1.76% | F1 so far: 0.0006
+  [Batch 370/594] Avg Loss: 4.5974 | Acc so far: 1.80% | F1 so far: 0.0006
+  [Batch 380/594] Avg Loss: 4.5976 | Acc so far: 1.75% | F1 so far: 0.0006
+  [Batch 390/594] Avg Loss: 4.5985 | Acc so far: 1.71% | F1 so far: 0.0006
+  [Batch 400/594] Avg Loss: 4.5978 | Acc so far: 1.83% | F1 so far: 0.0007
+  [Batch 410/594] Avg Loss: 4.5982 | Acc so far: 1.79% | F1 so far: 0.0006
+  [Batch 420/594] Avg Loss: 4.5979 | Acc so far: 1.83% | F1 so far: 0.0007
+  [Batch 430/594] Avg Loss: 4.5979 | Acc so far: 1.86% | F1 so far: 0.0007
+  [Batch 440/594] Avg Loss: 4.5974 | Acc so far: 1.82% | F1 so far: 0.0006
+  [Batch 450/594] Avg Loss: 4.5982 | Acc so far: 1.78% | F1 so far: 0.0006
+  [Batch 460/594] Avg Loss: 4.5965 | Acc so far: 1.88% | F1 so far: 0.0007
+  [Batch 470/594] Avg Loss: 4.5965 | Acc so far: 1.84% | F1 so far: 0.0007
+  [Batch 480/594] Avg Loss: 4.5959 | Acc so far: 1.88% | F1 so far: 0.0007
+  [Batch 490/594] Avg Loss: 4.5955 | Acc so far: 1.84% | F1 so far: 0.0007
+  [Batch 500/594] Avg Loss: 4.5957 | Acc so far: 1.87% | F1 so far: 0.0007
+  [Batch 510/594] Avg Loss: 4.5959 | Acc so far: 1.90% | F1 so far: 0.0007
+  [Batch 520/594] Avg Loss: 4.5960 | Acc so far: 1.92% | F1 so far: 0.0007
+  [Batch 530/594] Avg Loss: 4.5968 | Acc so far: 1.89% | F1 so far: 0.0007
+  [Batch 540/594] Avg Loss: 4.5964 | Acc so far: 1.91% | F1 so far: 0.0007
+  [Batch 550/594] Avg Loss: 4.5971 | Acc so far: 1.88% | F1 so far: 0.0007
+  [Batch 560/594] Avg Loss: 4.5973 | Acc so far: 1.85% | F1 so far: 0.0007
+  [Batch 570/594] Avg Loss: 4.5970 | Acc so far: 1.93% | F1 so far: 0.0007
+  [Batch 580/594] Avg Loss: 4.5976 | Acc so far: 1.90% | F1 so far: 0.0007
+  [Batch 590/594] Avg Loss: 4.5972 | Acc so far: 2.03% | F1 so far: 0.0008
+Train - Loss: 4.5973 | Acc: 2.02% | F1: 0.0008
+Val   - Loss: 4.6221 | Acc: 1.55% | F1: 0.0005
+No improvement for 5 epochs
+Early stopping: no improvement in validation accuracy
+
+FINISH. Best validation accuracy: 1.55%
