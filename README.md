@@ -5,9 +5,8 @@ _El objetivo de este proyecto es el de desarrollar un sistema de reconocimiento 
 
 _Para la realización de este programa se ha trabajado a partir del [WLASL dataset](https://www.kaggle.com/datasets/utsavk02/wlasl-complete) descrito en "Word-level Deep Sign Language Recognition from Video: En Nueva Large-Scale Dataset and Methods Comparison". Puedes encontrar el repositorio de github [aquí](https://github.com/dxli94/WLASL)._
 
- ```
-La solución utiliza una arquitectura Inflated 3D ConvNet (I3D) preentrenada en ImageNet y optimizada para clasificar las señas. 
- ```
+>La solución utiliza una arquitectura Inflated 3D ConvNet (I3D) preentrenada en ImageNet y optimizada para clasificar las señas. 
+
 
 El modelo procesa entradas de vídeo RGB y combina predicciones a nivel de vídeo y de fotograma para mejorar la precisión del reconocimiento.
 
