@@ -35,7 +35,7 @@ pip install -r requirements.txt
 ```
 3. Una vez todo esté instalado podrás ser capaz de ejecutar los archivos de **entrenamiento** y **test**, además del de la camara para probar el funcionamiento.
 
-No obstante, hay que tener en cuenta que el proyecto utiliza Cuda y PyTorch, por lo que se requiere un sistema con gráficos NVIDIA. Además, para ejecutar el sistema se necesita un mínimo de 4-5 GB de memoria GPU dedicada.
+>No obstante, hay que tener en cuenta que el proyecto utiliza Cuda y PyTorch, por lo que se requiere un sistema con gráficos NVIDIA. Además, para ejecutar el sistema se necesita un mínimo de 4-5 GB de memoria GPU dedicada.
 
 ## Diferencias clave entre versiones
 
