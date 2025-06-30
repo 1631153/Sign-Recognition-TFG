@@ -302,7 +302,7 @@ if __name__ == '__main__':
     # ================== test i3d on a dataset ==============
     # need to add argparse
     mode = 'rgb'
-    num_classes = 2000
+    num_classes = 100
     save_model = './checkpoints/'
 
     root = '../../data/WLASL2000'
